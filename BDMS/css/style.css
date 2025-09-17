@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lato:wght@700&family=Montserrat&family=Poppins:wght@400;500&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+
+    background-color: #fbf6ee;
+}
+
+.navbar-brand {
+    color: white;
+    font-size: 25px;
+}
+
+.navbar-nav {
+    margin-left: 20vw;
+}
+
+.nav-link {
+    color: white;
+    margin-right: 25px;
+    font-size: 20px;
+}
+
+.nav-link:hover {
+    color: #ffb534;
+}
+
+.carousel-inner {
+    height: 85vh;
+}
+
+.para1 {
+    margin-top: 50px;
+    margin-left: 150px;
+    font-size: 20px;
+}
+
+.para2 {
+    margin-top: 10px;
+    margin-left: 150px;
+    font-size: 20px;
+}
+
+.card-header{
+    background-color: #65b741;
+}
+
+.card-body{
+    background-color: #fbf6ee;
+}
+
+.footer{
+    background-color: #65b741;
+    color: #fbf6ee;
+    font-size: 20px;
+    height: 7vh;
+    text-align: center;
+    padding-top: 10px;
+}
